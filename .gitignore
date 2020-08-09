@@ -1,2 +1,5 @@
 # Ignore DS_Store
 *.DS_Store
+
+# No python notebook checkpoints
+*.ipynb_checkpoints
